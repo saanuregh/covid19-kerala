@@ -91,7 +91,7 @@ function Map(props) {
 
       svg.select(".legend").call(legendLinear);
 
-      const promises = [d3.json("/covid19-kerala/kerala.json")];
+      const promises = [d3.json("https://raw.githubusercontent.com/saanuregh/covid19-kerala/master/public/kerala.json")];
 
       Promise.all(promises).then(ready);
 
