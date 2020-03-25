@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "cbd666c91a5b7d84b7ca2166996e19d4",
+    "revision": "6de6d3e0cf6c1b9bf0bdea41edfc3e97",
     "url": "/covid19-kerala/index.html"
   },
   {
-    "revision": "efc3afa635e26086035e",
+    "revision": "fa1441879c5bc8c6cca7",
     "url": "/covid19-kerala/static/css/main.cc52a8eb.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/covid19-kerala/static/js/2.6eb966cd.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "efc3afa635e26086035e",
-    "url": "/covid19-kerala/static/js/main.4facbb0a.chunk.js"
+    "revision": "fa1441879c5bc8c6cca7",
+    "url": "/covid19-kerala/static/js/main.16a37636.chunk.js"
   },
   {
     "revision": "2e0d1dcc16d44fdb2746",
