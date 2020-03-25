@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/covid19-kerala/static/css/main.cc52a8eb.chunk.css",
+    "main.js": "/covid19-kerala/static/js/main.9172c2e3.chunk.js",
+    "main.js.map": "/covid19-kerala/static/js/main.9172c2e3.chunk.js.map",
+    "runtime-main.js": "/covid19-kerala/static/js/runtime-main.ca7170e1.js",
+    "runtime-main.js.map": "/covid19-kerala/static/js/runtime-main.ca7170e1.js.map",
+    "static/js/2.6eb966cd.chunk.js": "/covid19-kerala/static/js/2.6eb966cd.chunk.js",
+    "static/js/2.6eb966cd.chunk.js.map": "/covid19-kerala/static/js/2.6eb966cd.chunk.js.map",
+    "index.html": "/covid19-kerala/index.html",
+    "precache-manifest.712788c8fc9c5c236191174ab7ea1b88.js": "/covid19-kerala/precache-manifest.712788c8fc9c5c236191174ab7ea1b88.js",
+    "service-worker.js": "/covid19-kerala/service-worker.js",
+    "static/css/main.cc52a8eb.chunk.css.map": "/covid19-kerala/static/css/main.cc52a8eb.chunk.css.map",
+    "static/js/2.6eb966cd.chunk.js.LICENSE.txt": "/covid19-kerala/static/js/2.6eb966cd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ca7170e1.js",
+    "static/js/2.6eb966cd.chunk.js",
+    "static/css/main.cc52a8eb.chunk.css",
+    "static/js/main.9172c2e3.chunk.js"
+  ]
+}
