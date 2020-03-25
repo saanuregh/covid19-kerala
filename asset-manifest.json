@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/covid19-kerala/static/css/main.cc52a8eb.chunk.css",
-    "main.js": "/covid19-kerala/static/js/main.9172c2e3.chunk.js",
-    "main.js.map": "/covid19-kerala/static/js/main.9172c2e3.chunk.js.map",
+    "main.js": "/covid19-kerala/static/js/main.4facbb0a.chunk.js",
+    "main.js.map": "/covid19-kerala/static/js/main.4facbb0a.chunk.js.map",
     "runtime-main.js": "/covid19-kerala/static/js/runtime-main.ca7170e1.js",
     "runtime-main.js.map": "/covid19-kerala/static/js/runtime-main.ca7170e1.js.map",
     "static/js/2.6eb966cd.chunk.js": "/covid19-kerala/static/js/2.6eb966cd.chunk.js",
     "static/js/2.6eb966cd.chunk.js.map": "/covid19-kerala/static/js/2.6eb966cd.chunk.js.map",
     "index.html": "/covid19-kerala/index.html",
-    "precache-manifest.712788c8fc9c5c236191174ab7ea1b88.js": "/covid19-kerala/precache-manifest.712788c8fc9c5c236191174ab7ea1b88.js",
+    "precache-manifest.e9816b80a755f16117358df1e3866941.js": "/covid19-kerala/precache-manifest.e9816b80a755f16117358df1e3866941.js",
     "service-worker.js": "/covid19-kerala/service-worker.js",
     "static/css/main.cc52a8eb.chunk.css.map": "/covid19-kerala/static/css/main.cc52a8eb.chunk.css.map",
     "static/js/2.6eb966cd.chunk.js.LICENSE.txt": "/covid19-kerala/static/js/2.6eb966cd.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.ca7170e1.js",
     "static/js/2.6eb966cd.chunk.js",
     "static/css/main.cc52a8eb.chunk.css",
-    "static/js/main.9172c2e3.chunk.js"
+    "static/js/main.4facbb0a.chunk.js"
   ]
 }
